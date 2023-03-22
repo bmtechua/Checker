@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
     <device id="retina6_0" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -48,26 +49,46 @@
                         </constraints>
                     </imageView>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oZO-4Y-gmL">
-                        <rect key="frame" x="18" y="153" width="70" height="22"/>
+                        <rect key="frame" x="18" y="153" width="182" height="22"/>
                         <constraints>
                             <constraint firstAttribute="height" constant="22" id="Bbp-2y-XHc"/>
-                            <constraint firstAttribute="width" constant="70" id="TsO-Mk-hHN"/>
+                            <constraint firstAttribute="width" constant="182" id="TsO-Mk-hHN"/>
                         </constraints>
                         <fontDescription key="fontDescription" type="system" pointSize="12"/>
                         <color key="textColor" systemColor="systemGray2Color"/>
                         <nil key="highlightedColor"/>
                     </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="I2T-nh-T2y">
+                        <rect key="frame" x="272" y="149" width="41" height="30"/>
+                        <state key="normal" title="Button"/>
+                        <buttonConfiguration key="configuration" style="plain" image="pocket"/>
+                        <connections>
+                            <action selector="buttonFavorite:" destination="gTV-IL-0wX" eventType="touchUpInside" id="gV8-yQ-JiE"/>
+                        </connections>
+                    </button>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="n6g-V7-C8Z">
+                        <rect key="frame" x="223" y="149" width="41" height="30"/>
+                        <state key="normal" title="Button"/>
+                        <buttonConfiguration key="configuration" style="plain" image="share"/>
+                        <connections>
+                            <action selector="buttonShare:" destination="gTV-IL-0wX" eventType="touchUpInside" id="ans-4n-BSd"/>
+                        </connections>
+                    </button>
                 </subviews>
             </view>
             <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
             <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
             <constraints>
+                <constraint firstItem="I2T-nh-T2y" firstAttribute="leading" secondItem="n6g-V7-C8Z" secondAttribute="trailing" constant="8" id="5Cb-PC-oJH"/>
                 <constraint firstItem="ERN-6n-OnO" firstAttribute="leading" secondItem="JJN-T9-q7d" secondAttribute="trailing" constant="15" id="7eg-K4-xbo"/>
                 <constraint firstItem="JJN-T9-q7d" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="22" id="8LO-VH-nao"/>
                 <constraint firstItem="oZO-4Y-gmL" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="18" id="HmZ-4u-EFz"/>
+                <constraint firstAttribute="bottom" secondItem="n6g-V7-C8Z" secondAttribute="bottom" constant="12" id="OJw-BY-36c"/>
                 <constraint firstAttribute="trailing" secondItem="ERN-6n-OnO" secondAttribute="trailing" constant="18" id="VhB-67-xah"/>
                 <constraint firstItem="JJN-T9-q7d" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="17" id="afn-vK-BmP"/>
                 <constraint firstItem="ERN-6n-OnO" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="18" id="dtq-j3-GqV"/>
+                <constraint firstAttribute="trailing" secondItem="I2T-nh-T2y" secondAttribute="trailing" constant="30" id="hf6-Bu-MRE"/>
+                <constraint firstAttribute="bottom" secondItem="I2T-nh-T2y" secondAttribute="bottom" constant="12" id="kIW-2v-XOe"/>
                 <constraint firstItem="oZO-4Y-gmL" firstAttribute="top" secondItem="JJN-T9-q7d" secondAttribute="bottom" constant="12" id="xKs-Ky-0GQ"/>
             </constraints>
             <size key="customSize" width="322" height="154"/>
@@ -77,10 +98,12 @@
                 <outlet property="textNewsLabel" destination="0JY-J3-0dN" id="0pD-O4-VFr"/>
                 <outlet property="timeNewsLabel" destination="oZO-4Y-gmL" id="VDG-dj-RLe"/>
             </connections>
-            <point key="canvasLocation" x="327.69230769230768" y="100.94786729857819"/>
+            <point key="canvasLocation" x="326.92307692307691" y="100.59241706161137"/>
         </collectionViewCell>
     </objects>
     <resources>
+        <image name="pocket" width="17" height="16"/>
+        <image name="share" width="17" height="16"/>
         <systemColor name="systemGray2Color">
             <color red="0.68235294117647061" green="0.68235294117647061" blue="0.69803921568627447" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>

@@ -1,0 +1,2325 @@
+{
+  "stock": [
+    {
+      "name": "2GO Group",
+      "price": {
+        "currency": "PHP",
+        "amount": 6.49
+      },
+      "percent_change": -4.84,
+      "volume": 35900,
+      "symbol": "2GO"
+    },
+    {
+      "name": "HOUSE PREF B",
+      "price": {
+        "currency": "PHP",
+        "amount": 99.00
+      },
+      "percent_change": 0.00,
+      "volume": 5500,
+      "symbol": "8990B"
+    },
+    {
+      "name": "HOUSE PREF A",
+      "price": {
+        "currency": "PHP",
+        "amount": 99.00
+      },
+      "percent_change": -1.59,
+      "volume": 5400,
+      "symbol": "8990P"
+    },
+    {
+      "name": "Atok A",
+      "price": {
+        "currency": "PHP",
+        "amount": 6.84
+      },
+      "percent_change": -2.01,
+      "volume": 33600,
+      "symbol": "AB"
+    },
+    {
+      "name": "ABACORE CAPITAL",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.91
+      },
+      "percent_change": 9.14,
+      "volume": 65239000,
+      "symbol": "ABA"
+    },
+    {
+      "name": "Asiabest Gorup",
+      "price": {
+        "currency": "PHP",
+        "amount": 3.61
+      },
+      "percent_change": 0.28,
+      "volume": 1000,
+      "symbol": "ABG"
+    },
+    {
+      "name": "ABS-CBN",
+      "price": {
+        "currency": "PHP",
+        "amount": 8.75
+      },
+      "percent_change": -1.69,
+      "volume": 111400,
+      "symbol": "ABS"
+    },
+    {
+      "name": "ABS-CBN PDR",
+      "price": {
+        "currency": "PHP",
+        "amount": 8.89
+      },
+      "percent_change": 3.37,
+      "volume": 6500,
+      "symbol": "ABSP"
+    },
+    {
+      "name": "Ayala Corp",
+      "price": {
+        "currency": "PHP",
+        "amount": 610.00
+      },
+      "percent_change": 0.00,
+      "volume": 246980,
+      "symbol": "AC"
+    },
+    {
+      "name": "AC ENERGY",
+      "price": {
+        "currency": "PHP",
+        "amount": 8.40
+      },
+      "percent_change": 1.82,
+      "volume": 16997400,
+      "symbol": "ACEN"
+    },
+    {
+      "name": "AC ENEXOR",
+      "price": {
+        "currency": "PHP",
+        "amount": 12.52
+      },
+      "percent_change": -2.80,
+      "volume": 360000,
+      "symbol": "ACEX"
+    },
+    {
+      "name": "Alsons Cons",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.96
+      },
+      "percent_change": 1.05,
+      "volume": 139000,
+      "symbol": "ACR"
+    },
+    {
+      "name": "Aboitiz",
+      "price": {
+        "currency": "PHP",
+        "amount": 51.50
+      },
+      "percent_change": 0.98,
+      "volume": 1207200,
+      "symbol": "AEV"
+    },
+    {
+      "name": "Alliance Global",
+      "price": {
+        "currency": "PHP",
+        "amount": 9.71
+      },
+      "percent_change": 0.10,
+      "volume": 1861200,
+      "symbol": "AGI"
+    },
+    {
+      "name": "Arthaland",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.53
+      },
+      "percent_change": -1.85,
+      "volume": 182000,
+      "symbol": "ALCO"
+    },
+    {
+      "name": "Anchor Land",
+      "price": {
+        "currency": "PHP",
+        "amount": 6.00
+      },
+      "percent_change": 0.84,
+      "volume": 2000,
+      "symbol": "ALHI"
+    },
+    {
+      "name": "Ayala Land",
+      "price": {
+        "currency": "PHP",
+        "amount": 25.20
+      },
+      "percent_change": 3.28,
+      "volume": 16393200,
+      "symbol": "ALI"
+    },
+    {
+      "name": "ALLDAY",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.295
+      },
+      "percent_change": 3.51,
+      "volume": 12290000,
+      "symbol": "ALLDY"
+    },
+    {
+      "name": "AYALA LAND LOG",
+      "price": {
+        "currency": "PHP",
+        "amount": 3.11
+      },
+      "percent_change": 6.14,
+      "volume": 1043000,
+      "symbol": "ALLHC"
+    },
+    {
+      "name": "AgriNurture",
+      "price": {
+        "currency": "PHP",
+        "amount": 5.54
+      },
+      "percent_change": 0.91,
+      "volume": 1431300,
+      "symbol": "ANI"
+    },
+    {
+      "name": "Anscor",
+      "price": {
+        "currency": "PHP",
+        "amount": 8.10
+      },
+      "percent_change": 0.00,
+      "volume": 49300,
+      "symbol": "ANS"
+    },
+    {
+      "name": "Aboitiz Power",
+      "price": {
+        "currency": "PHP",
+        "amount": 31.90
+      },
+      "percent_change": 1.27,
+      "volume": 1192700,
+      "symbol": "AP"
+    },
+    {
+      "name": "AC PREF B2R",
+      "price": {
+        "currency": "PHP",
+        "amount": 496.40
+      },
+      "percent_change": -0.08,
+      "volume": 10,
+      "symbol": "APB2R"
+    },
+    {
+      "name": "APC Group",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.180
+      },
+      "percent_change": -6.74,
+      "volume": 190000,
+      "symbol": "APC"
+    },
+    {
+      "name": "APOLLO GLOBAL",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.035
+      },
+      "percent_change": 2.94,
+      "volume": 137100000,
+      "symbol": "APL"
+    },
+    {
+      "name": "Anglo-Phil Hldg",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.77
+      },
+      "percent_change": 4.05,
+      "volume": 5000,
+      "symbol": "APO"
+    },
+    {
+      "name": "ALTUS PROP",
+      "price": {
+        "currency": "PHP",
+        "amount": 13.12
+      },
+      "percent_change": -4.23,
+      "volume": 3700,
+      "symbol": "APVI"
+    },
+    {
+      "name": "Apex Mining A",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.45
+      },
+      "percent_change": -1.36,
+      "volume": 971000,
+      "symbol": "APX"
+    },
+    {
+      "name": "Araneta Prop",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.37
+      },
+      "percent_change": 2.24,
+      "volume": 606000,
+      "symbol": "ARA"
+    },
+    {
+      "name": "AREIT RT",
+      "price": {
+        "currency": "PHP",
+        "amount": 36.80
+      },
+      "percent_change": 0.41,
+      "volume": 323300,
+      "symbol": "AREIT"
+    },
+    {
+      "name": "RASLAG",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.79
+      },
+      "percent_change": -1.65,
+      "volume": 2983000,
+      "symbol": "ASLAG"
+    },
+    {
+      "name": "Atlas Mining",
+      "price": {
+        "currency": "PHP",
+        "amount": 4.38
+      },
+      "percent_change": 0.69,
+      "volume": 171000,
+      "symbol": "AT"
+    },
+    {
+      "name": "Asian Terminals",
+      "price": {
+        "currency": "PHP",
+        "amount": 13.90
+      },
+      "percent_change": 0.72,
+      "volume": 200,
+      "symbol": "ATI"
+    },
+    {
+      "name": "ATN Holdings A",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.415
+      },
+      "percent_change": 3.75,
+      "volume": 860000,
+      "symbol": "ATN"
+    },
+    {
+      "name": "AXELUM",
+      "price": {
+        "currency": "PHP",
+        "amount": 2.09
+      },
+      "percent_change": -0.48,
+      "volume": 160000,
+      "symbol": "AXLM"
+    },
+    {
+      "name": "BALAI FRUITAS",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.63
+      },
+      "percent_change": -3.08,
+      "volume": 6332000,
+      "symbol": "BALAI"
+    },
+    {
+      "name": "Benguet A",
+      "price": {
+        "currency": "PHP",
+        "amount": 5.34
+      },
+      "percent_change": 0.38,
+      "volume": 7000,
+      "symbol": "BC"
+    },
+    {
+      "name": "Benguet B",
+      "price": {
+        "currency": "PHP",
+        "amount": 5.30
+      },
+      "percent_change": -0.93,
+      "volume": 4300,
+      "symbol": "BCB"
+    },
+    {
+      "name": "Prime Gaming",
+      "price": {
+        "currency": "PHP",
+        "amount": 6.15
+      },
+      "percent_change": 0.00,
+      "volume": 300,
+      "symbol": "BCOR"
+    },
+    {
+      "name": "Banco de Oro",
+      "price": {
+        "currency": "PHP",
+        "amount": 118.00
+      },
+      "percent_change": 0.43,
+      "volume": 2759050,
+      "symbol": "BDO"
+    },
+    {
+      "name": "Belle Corp.",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.19
+      },
+      "percent_change": 0.00,
+      "volume": 236000,
+      "symbol": "BEL"
+    },
+    {
+      "name": "Boulevard Hldg.",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.082
+      },
+      "percent_change": 0.00,
+      "volume": 45130000,
+      "symbol": "BHI"
+    },
+    {
+      "name": "Bright Kindle",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.74
+      },
+      "percent_change": 2.35,
+      "volume": 11000,
+      "symbol": "BKR"
+    },
+    {
+      "name": "Bloomberry",
+      "price": {
+        "currency": "PHP",
+        "amount": 6.02
+      },
+      "percent_change": 1.01,
+      "volume": 2687900,
+      "symbol": "BLOOM"
+    },
+    {
+      "name": "BANK COMMERCE",
+      "price": {
+        "currency": "PHP",
+        "amount": 8.01
+      },
+      "percent_change": 0.12,
+      "volume": 37400,
+      "symbol": "BNCOM"
+    },
+    {
+      "name": "BPI",
+      "price": {
+        "currency": "PHP",
+        "amount": 89.00
+      },
+      "percent_change": -0.45,
+      "volume": 1510110,
+      "symbol": "BPI"
+    },
+    {
+      "name": "A. Brown",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.74
+      },
+      "percent_change": -1.33,
+      "volume": 80000,
+      "symbol": "BRN"
+    },
+    {
+      "name": "BRN PREF A",
+      "price": {
+        "currency": "PHP",
+        "amount": 105.00
+      },
+      "percent_change": -0.94,
+      "volume": 340,
+      "symbol": "BRNP"
+    },
+    {
+      "name": "BASIC ENERGY",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.410
+      },
+      "percent_change": 7.89,
+      "volume": 20570000,
+      "symbol": "BSC"
+    },
+    {
+      "name": "CHELSEA",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.28
+      },
+      "percent_change": 0.00,
+      "volume": 95000,
+      "symbol": "C"
+    },
+    {
+      "name": "Concrete A",
+      "price": {
+        "currency": "PHP",
+        "amount": 40.00
+      },
+      "percent_change": 0.00,
+      "volume": 1300,
+      "symbol": "CA"
+    },
+    {
+      "name": "5J",
+      "price": {
+        "currency": "PHP",
+        "amount": 41.60
+      },
+      "percent_change": 1.84,
+      "volume": 146800,
+      "symbol": "CEB"
+    },
+    {
+      "name": "CEB PREF",
+      "price": {
+        "currency": "PHP",
+        "amount": 41.00
+      },
+      "percent_change": 2.37,
+      "volume": 21400,
+      "symbol": "CEBCP"
+    },
+    {
+      "name": "Crown Equities",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.085
+      },
+      "percent_change": 1.19,
+      "volume": 20000,
+      "symbol": "CEI"
+    },
+    {
+      "name": "Chinabank",
+      "price": {
+        "currency": "PHP",
+        "amount": 26.75
+      },
+      "percent_change": 0.38,
+      "volume": 140700,
+      "symbol": "CHIB"
+    },
+    {
+      "name": "Cemex Hldg",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.81
+      },
+      "percent_change": 20.90,
+      "volume": 23145000,
+      "symbol": "CHP"
+    },
+    {
+      "name": "CONCEPCION",
+      "price": {
+        "currency": "PHP",
+        "amount": 19.50
+      },
+      "percent_change": 2.63,
+      "volume": 1700,
+      "symbol": "CIC"
+    },
+    {
+      "name": "Chemphil",
+      "price": {
+        "currency": "PHP",
+        "amount": 125.20
+      },
+      "percent_change": -3.69,
+      "volume": 20,
+      "symbol": "CIP"
+    },
+    {
+      "name": "CEB LANDMASTERS",
+      "price": {
+        "currency": "PHP",
+        "amount": 2.51
+      },
+      "percent_change": 0.40,
+      "volume": 302000,
+      "symbol": "CLI"
+    },
+    {
+      "name": "CENTURY FOOD",
+      "price": {
+        "currency": "PHP",
+        "amount": 23.10
+      },
+      "percent_change": -2.53,
+      "volume": 704400,
+      "symbol": "CNPF"
+    },
+    {
+      "name": "CONVERGE",
+      "price": {
+        "currency": "PHP",
+        "amount": 20.85
+      },
+      "percent_change": 2.96,
+      "volume": 9214600,
+      "symbol": "CNVRG"
+    },
+    {
+      "name": "Coal Asia",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.229
+      },
+      "percent_change": 10.63,
+      "volume": 40000,
+      "symbol": "COAL"
+    },
+    {
+      "name": "COL Financial",
+      "price": {
+        "currency": "PHP",
+        "amount": 3.45
+      },
+      "percent_change": -1.43,
+      "volume": 3000,
+      "symbol": "COL"
+    },
+    {
+      "name": "COSCO CAPITAL",
+      "price": {
+        "currency": "PHP",
+        "amount": 4.30
+      },
+      "percent_change": -2.27,
+      "volume": 1403000,
+      "symbol": "COSCO"
+    },
+    {
+      "name": "CPG",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.380
+      },
+      "percent_change": -1.30,
+      "volume": 1090000,
+      "symbol": "CPG"
+    },
+    {
+      "name": "CENTURY PEAK",
+      "price": {
+        "currency": "PHP",
+        "amount": 2.72
+      },
+      "percent_change": 0.00,
+      "volume": 55000,
+      "symbol": "CPM"
+    },
+    {
+      "name": "CITICORE RT",
+      "price": {
+        "currency": "PHP",
+        "amount": 2.38
+      },
+      "percent_change": 0.42,
+      "volume": 8473000,
+      "symbol": "CREIT"
+    },
+    {
+      "name": "CROWN ASIA",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.68
+      },
+      "percent_change": 2.44,
+      "volume": 326000,
+      "symbol": "CROWN"
+    },
+    {
+      "name": "CTS GLOBAL",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.00
+      },
+      "percent_change": 5.26,
+      "volume": 11894000,
+      "symbol": "CTS"
+    },
+    {
+      "name": "DOUBLEDRAGON",
+      "price": {
+        "currency": "PHP",
+        "amount": 7.83
+      },
+      "percent_change": 1.56,
+      "volume": 109200,
+      "symbol": "DD"
+    },
+    {
+      "name": "DDMP RT",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.50
+      },
+      "percent_change": 0.67,
+      "volume": 951000,
+      "symbol": "DDMPR"
+    },
+    {
+      "name": "DD PREF",
+      "price": {
+        "currency": "PHP",
+        "amount": 98.75
+      },
+      "percent_change": -0.25,
+      "volume": 52320,
+      "symbol": "DDPR"
+    },
+    {
+      "name": "DEL MONTE",
+      "price": {
+        "currency": "PHP",
+        "amount": 13.24
+      },
+      "percent_change": -1.93,
+      "volume": 152400,
+      "symbol": "DELM"
+    },
+    {
+      "name": "Diversified",
+      "price": {
+        "currency": "PHP",
+        "amount": 3.26
+      },
+      "percent_change": -1.21,
+      "volume": 24000,
+      "symbol": "DFNN"
+    },
+    {
+      "name": "ISM Comm.",
+      "price": {
+        "currency": "PHP",
+        "amount": 4.15
+      },
+      "percent_change": 0.97,
+      "volume": 1333000,
+      "symbol": "DITO"
+    },
+    {
+      "name": "DMCI Holdings",
+      "price": {
+        "currency": "PHP",
+        "amount": 9.31
+      },
+      "percent_change": 3.44,
+      "volume": 26842000,
+      "symbol": "DMC"
+    },
+    {
+      "name": "DM WENCESLAO",
+      "price": {
+        "currency": "PHP",
+        "amount": 6.80
+      },
+      "percent_change": -0.58,
+      "volume": 20900,
+      "symbol": "DMW"
+    },
+    {
+      "name": "DNL INDUS",
+      "price": {
+        "currency": "PHP",
+        "amount": 7.03
+      },
+      "percent_change": 0.00,
+      "volume": 1261700,
+      "symbol": "DNL"
+    },
+    {
+      "name": "EAGLE CEMENT",
+      "price": {
+        "currency": "PHP",
+        "amount": 12.20
+      },
+      "percent_change": 0.00,
+      "volume": 17900,
+      "symbol": "EAGLE"
+    },
+    {
+      "name": "EEI Corp.",
+      "price": {
+        "currency": "PHP",
+        "amount": 3.31
+      },
+      "percent_change": -1.19,
+      "volume": 296000,
+      "symbol": "EEI"
+    },
+    {
+      "name": "EEI PREF A",
+      "price": {
+        "currency": "PHP",
+        "amount": 104.00
+      },
+      "percent_change": 0.00,
+      "volume": 70,
+      "symbol": "EEIPA"
+    },
+    {
+      "name": "EEI PREF B",
+      "price": {
+        "currency": "PHP",
+        "amount": 106.50
+      },
+      "percent_change": 0.00,
+      "volume": 40,
+      "symbol": "EEIPB"
+    },
+    {
+      "name": "Empire East",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.202
+      },
+      "percent_change": -3.81,
+      "volume": 70000,
+      "symbol": "ELI"
+    },
+    {
+      "name": "EMPERADOR",
+      "price": {
+        "currency": "PHP",
+        "amount": 18.92
+      },
+      "percent_change": 0.85,
+      "volume": 4552600,
+      "symbol": "EMI"
+    },
+    {
+      "name": "Euromed",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.03
+      },
+      "percent_change": 0.98,
+      "volume": 1000,
+      "symbol": "EURO"
+    },
+    {
+      "name": "Ever-Gotesco",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.300
+      },
+      "percent_change": 11.11,
+      "volume": 42820000,
+      "symbol": "EVER"
+    },
+    {
+      "name": "EW",
+      "price": {
+        "currency": "PHP",
+        "amount": 6.95
+      },
+      "percent_change": 3.27,
+      "volume": 78800,
+      "symbol": "EW"
+    },
+    {
+      "name": "Purefoods",
+      "price": {
+        "currency": "PHP",
+        "amount": 43.50
+      },
+      "percent_change": -2.68,
+      "volume": 166800,
+      "symbol": "FB"
+    },
+    {
+      "name": "FIGARO COFFEE",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.63
+      },
+      "percent_change": -4.55,
+      "volume": 50500000,
+      "symbol": "FCG"
+    },
+    {
+      "name": "Filinvest Dev.",
+      "price": {
+        "currency": "PHP",
+        "amount": 7.00
+      },
+      "percent_change": 1.60,
+      "volume": 28100,
+      "symbol": "FDC"
+    },
+    {
+      "name": "Far Eastern U.",
+      "price": {
+        "currency": "PHP",
+        "amount": 588.00
+      },
+      "percent_change": 10.84,
+      "volume": 20,
+      "symbol": "FEU"
+    },
+    {
+      "name": "First Gen",
+      "price": {
+        "currency": "PHP",
+        "amount": 16.78
+      },
+      "percent_change": -1.18,
+      "volume": 949800,
+      "symbol": "FGEN"
+    },
+    {
+      "name": "FILINVEST RT",
+      "price": {
+        "currency": "PHP",
+        "amount": 6.79
+      },
+      "percent_change": 0.00,
+      "volume": 805600,
+      "symbol": "FILRT"
+    },
+    {
+      "name": "Filinvest Land",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.95
+      },
+      "percent_change": 4.40,
+      "volume": 13899000,
+      "symbol": "FLI"
+    },
+    {
+      "name": "FIRST METRO ETF",
+      "price": {
+        "currency": "PHP",
+        "amount": 96.60
+      },
+      "percent_change": 0.10,
+      "volume": 12090,
+      "symbol": "FMETF"
+    },
+    {
+      "name": "FERRONICKEL",
+      "price": {
+        "currency": "PHP",
+        "amount": 2.25
+      },
+      "percent_change": 0.90,
+      "volume": 1846000,
+      "symbol": "FNI"
+    },
+    {
+      "name": "Tuna",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.58
+      },
+      "percent_change": 0.00,
+      "volume": 3000,
+      "symbol": "FOOD"
+    },
+    {
+      "name": "First Phil Hldg",
+      "price": {
+        "currency": "PHP",
+        "amount": 62.90
+      },
+      "percent_change": 3.11,
+      "volume": 15710,
+      "symbol": "FPH"
+    },
+    {
+      "name": "FRUITAS HLDG",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.02
+      },
+      "percent_change": -1.92,
+      "volume": 77000,
+      "symbol": "FRUIT"
+    },
+    {
+      "name": "GEOGRACE",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.192
+      },
+      "percent_change": 12.94,
+      "volume": 980000,
+      "symbol": "GEO"
+    },
+    {
+      "name": "Global-Estate",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.82
+      },
+      "percent_change": 0.00,
+      "volume": 100000,
+      "symbol": "GERI"
+    },
+    {
+      "name": "Globe Telecom",
+      "price": {
+        "currency": "PHP",
+        "amount": 2246.00
+      },
+      "percent_change": 0.18,
+      "volume": 19025,
+      "symbol": "GLO"
+    },
+    {
+      "name": "GMA Network",
+      "price": {
+        "currency": "PHP",
+        "amount": 10.20
+      },
+      "percent_change": 0.79,
+      "volume": 196200,
+      "symbol": "GMA7"
+    },
+    {
+      "name": "GMA Holdings",
+      "price": {
+        "currency": "PHP",
+        "amount": 10.90
+      },
+      "percent_change": 0.00,
+      "volume": 6600,
+      "symbol": "GMAP"
+    },
+    {
+      "name": "GREEN",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.67
+      },
+      "percent_change": 0.00,
+      "volume": 5934000,
+      "symbol": "GREEN"
+    },
+    {
+      "name": "Ginebra",
+      "price": {
+        "currency": "PHP",
+        "amount": 97.00
+      },
+      "percent_change": -2.51,
+      "volume": 84430,
+      "symbol": "GSMI"
+    },
+    {
+      "name": "GT Capital",
+      "price": {
+        "currency": "PHP",
+        "amount": 470.00
+      },
+      "percent_change": -0.63,
+      "volume": 69980,
+      "symbol": "GTCAP"
+    },
+    {
+      "name": "Holcim",
+      "price": {
+        "currency": "PHP",
+        "amount": 5.00
+      },
+      "percent_change": -0.99,
+      "volume": 1128000,
+      "symbol": "HLCM"
+    },
+    {
+      "name": "ALLHOME",
+      "price": {
+        "currency": "PHP",
+        "amount": 4.55
+      },
+      "percent_change": 3.17,
+      "volume": 42000,
+      "symbol": "HOME"
+    },
+    {
+      "name": "HAUS TALK",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.89
+      },
+      "percent_change": -2.20,
+      "volume": 473000,
+      "symbol": "HTI"
+    },
+    {
+      "name": "Intl Container",
+      "price": {
+        "currency": "PHP",
+        "amount": 182.00
+      },
+      "percent_change": -2.15,
+      "volume": 1119360,
+      "symbol": "ICT"
+    },
+    {
+      "name": "Italpinas",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.72
+      },
+      "percent_change": 1.41,
+      "volume": 233000,
+      "symbol": "IDC"
+    },
+    {
+      "name": "Integ. Micro",
+      "price": {
+        "currency": "PHP",
+        "amount": 6.07
+      },
+      "percent_change": -3.50,
+      "volume": 21700,
+      "symbol": "IMI"
+    },
+    {
+      "name": "PHIL INFRADEV",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.07
+      },
+      "percent_change": -4.46,
+      "volume": 2266000,
+      "symbol": "INFRA"
+    },
+    {
+      "name": "Ionics",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.73
+      },
+      "percent_change": 0.00,
+      "volume": 31000,
+      "symbol": "ION"
+    },
+    {
+      "name": "IPM HLDG",
+      "price": {
+        "currency": "PHP",
+        "amount": 6.25
+      },
+      "percent_change": -2.34,
+      "volume": 5000,
+      "symbol": "IPM"
+    },
+    {
+      "name": "IPeople",
+      "price": {
+        "currency": "PHP",
+        "amount": 6.70
+      },
+      "percent_change": -5.77,
+      "volume": 6300,
+      "symbol": "IPO"
+    },
+    {
+      "name": "Jollibee",
+      "price": {
+        "currency": "PHP",
+        "amount": 212.80
+      },
+      "percent_change": 1.24,
+      "volume": 348270,
+      "symbol": "JFC"
+    },
+    {
+      "name": "JFC PREF B",
+      "price": {
+        "currency": "PHP",
+        "amount": 955.00
+      },
+      "percent_change": 0.00,
+      "volume": 510,
+      "symbol": "JFCPB"
+    },
+    {
+      "name": "JG Summit",
+      "price": {
+        "currency": "PHP",
+        "amount": 52.45
+      },
+      "percent_change": 0.77,
+      "volume": 1250650,
+      "symbol": "JGS"
+    },
+    {
+      "name": "KEEPERS HLDG",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.10
+      },
+      "percent_change": 2.80,
+      "volume": 755000,
+      "symbol": "KEEPR"
+    },
+    {
+      "name": "Keppel Hldg. B",
+      "price": {
+        "currency": "PHP",
+        "amount": 7.26
+      },
+      "percent_change": 0.00,
+      "volume": 35000,
+      "symbol": "KPHB"
+    },
+    {
+      "name": "KEPWEALTH",
+      "price": {
+        "currency": "PHP",
+        "amount": 2.26
+      },
+      "percent_change": -1.74,
+      "volume": 46000,
+      "symbol": "KPPI"
+    },
+    {
+      "name": "City & Land",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.72
+      },
+      "percent_change": 0.00,
+      "volume": 22000,
+      "symbol": "LAND"
+    },
+    {
+      "name": "Lepanto A",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.133
+      },
+      "percent_change": -5.00,
+      "volume": 600000,
+      "symbol": "LC"
+    },
+    {
+      "name": "Benpres Hldg.",
+      "price": {
+        "currency": "PHP",
+        "amount": 2.96
+      },
+      "percent_change": 1.72,
+      "volume": 13000,
+      "symbol": "LPZ"
+    },
+    {
+      "name": "Leisure",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.42
+      },
+      "percent_change": -2.07,
+      "volume": 1609000,
+      "symbol": "LR"
+    },
+    {
+      "name": "LT GROUP",
+      "price": {
+        "currency": "PHP",
+        "amount": 8.37
+      },
+      "percent_change": 0.72,
+      "volume": 922100,
+      "symbol": "LTG"
+    },
+    {
+      "name": "Macroasia",
+      "price": {
+        "currency": "PHP",
+        "amount": 4.37
+      },
+      "percent_change": 2.58,
+      "volume": 189000,
+      "symbol": "MAC"
+    },
+    {
+      "name": "MetroAlliance A",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.84
+      },
+      "percent_change": 0.00,
+      "volume": 36000,
+      "symbol": "MAH"
+    },
+    {
+      "name": "MetroAlliance B",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.90
+      },
+      "percent_change": 0.00,
+      "volume": 18000,
+      "symbol": "MAHB"
+    },
+    {
+      "name": "Marcventures",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.32
+      },
+      "percent_change": 3.94,
+      "volume": 1635000,
+      "symbol": "MARC"
+    },
+    {
+      "name": "MAXS GROUP",
+      "price": {
+        "currency": "PHP",
+        "amount": 4.47
+      },
+      "percent_change": 5.42,
+      "volume": 350000,
+      "symbol": "MAXS"
+    },
+    {
+      "name": "Metrobank",
+      "price": {
+        "currency": "PHP",
+        "amount": 45.65
+      },
+      "percent_change": -0.11,
+      "volume": 2982400,
+      "symbol": "MBT"
+    },
+    {
+      "name": "MEDILINES",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.64
+      },
+      "percent_change": 1.59,
+      "volume": 653000,
+      "symbol": "MEDIC"
+    },
+    {
+      "name": "Megaworld",
+      "price": {
+        "currency": "PHP",
+        "amount": 2.28
+      },
+      "percent_change": 2.24,
+      "volume": 27014000,
+      "symbol": "MEG"
+    },
+    {
+      "name": "Meralco A",
+      "price": {
+        "currency": "PHP",
+        "amount": 357.20
+      },
+      "percent_change": -3.35,
+      "volume": 370090,
+      "symbol": "MER"
+    },
+    {
+      "name": "Manulife",
+      "price": {
+        "currency": "PHP",
+        "amount": 972.00
+      },
+      "percent_change": 8.00,
+      "volume": 60,
+      "symbol": "MFC"
+    },
+    {
+      "name": "MG HOLDINGS",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.104
+      },
+      "percent_change": -1.89,
+      "volume": 3420000,
+      "symbol": "MG"
+    },
+    {
+      "name": "MERRYMART",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.22
+      },
+      "percent_change": -0.81,
+      "volume": 1529000,
+      "symbol": "MM"
+    },
+    {
+      "name": "MONDE NISSIN",
+      "price": {
+        "currency": "PHP",
+        "amount": 14.00
+      },
+      "percent_change": 0.72,
+      "volume": 4588300,
+      "symbol": "MONDE"
+    },
+    {
+      "name": "Metro Pac Inv ",
+      "price": {
+        "currency": "PHP",
+        "amount": 3.70
+      },
+      "percent_change": 0.27,
+      "volume": 7647000,
+      "symbol": "MPI"
+    },
+    {
+      "name": "MRC Allied",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.178
+      },
+      "percent_change": 3.49,
+      "volume": 3160000,
+      "symbol": "MRC"
+    },
+    {
+      "name": "MREIT RT",
+      "price": {
+        "currency": "PHP",
+        "amount": 16.00
+      },
+      "percent_change": 0.13,
+      "volume": 1142700,
+      "symbol": "MREIT"
+    },
+    {
+      "name": "Metro Retail",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.47
+      },
+      "percent_change": 0.00,
+      "volume": 109000,
+      "symbol": "MRSGI"
+    },
+    {
+      "name": "Mabuhay Vinyl",
+      "price": {
+        "currency": "PHP",
+        "amount": 5.30
+      },
+      "percent_change": 3.11,
+      "volume": 9400,
+      "symbol": "MVC"
+    },
+    {
+      "name": "Manila Water",
+      "price": {
+        "currency": "PHP",
+        "amount": 16.00
+      },
+      "percent_change": 0.00,
+      "volume": 312600,
+      "symbol": "MWC"
+    },
+    {
+      "name": "Megawide",
+      "price": {
+        "currency": "PHP",
+        "amount": 4.34
+      },
+      "percent_change": 3.09,
+      "volume": 258000,
+      "symbol": "MWIDE"
+    },
+    {
+      "name": "NICKELASIA",
+      "price": {
+        "currency": "PHP",
+        "amount": 5.40
+      },
+      "percent_change": 4.45,
+      "volume": 9399700,
+      "symbol": "NIKL"
+    },
+    {
+      "name": "NOW CORP",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.14
+      },
+      "percent_change": -1.72,
+      "volume": 507000,
+      "symbol": "NOW"
+    },
+    {
+      "name": "ORNTL PETROL A",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.011
+      },
+      "percent_change": -8.33,
+      "volume": 21000000,
+      "symbol": "OPM"
+    },
+    {
+      "name": "Oriental P",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.70
+      },
+      "percent_change": -2.78,
+      "volume": 170000,
+      "symbol": "ORE"
+    },
+    {
+      "name": "Philodrill A",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.0088
+      },
+      "percent_change": 2.33,
+      "volume": 2000000,
+      "symbol": "OV"
+    },
+    {
+      "name": "PAL Holdings",
+      "price": {
+        "currency": "PHP",
+        "amount": 5.60
+      },
+      "percent_change": 1.82,
+      "volume": 2300,
+      "symbol": "PAL"
+    },
+    {
+      "name": "PB BANK",
+      "price": {
+        "currency": "PHP",
+        "amount": 6.55
+      },
+      "percent_change": -0.76,
+      "volume": 45000,
+      "symbol": "PBB"
+    },
+    {
+      "name": "Petron",
+      "price": {
+        "currency": "PHP",
+        "amount": 2.96
+      },
+      "percent_change": -0.67,
+      "volume": 553000,
+      "symbol": "PCOR"
+    },
+    {
+      "name": "PetroEnergy",
+      "price": {
+        "currency": "PHP",
+        "amount": 4.65
+      },
+      "percent_change": -4.12,
+      "volume": 244000,
+      "symbol": "PERC"
+    },
+    {
+      "name": "PUREGOLD",
+      "price": {
+        "currency": "PHP",
+        "amount": 29.05
+      },
+      "percent_change": 1.75,
+      "volume": 1251000,
+      "symbol": "PGOLD"
+    },
+    {
+      "name": "PremiereHorizon",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.430
+      },
+      "percent_change": 2.38,
+      "volume": 810000,
+      "symbol": "PHA"
+    },
+    {
+      "name": "Phinma ",
+      "price": {
+        "currency": "PHP",
+        "amount": 19.20
+      },
+      "percent_change": 0.00,
+      "volume": 6200,
+      "symbol": "PHN"
+    },
+    {
+      "name": "PH RESORTS GRP",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.83
+      },
+      "percent_change": 1.22,
+      "volume": 922000,
+      "symbol": "PHR"
+    },
+    {
+      "name": "SHAKEYS PIZZA",
+      "price": {
+        "currency": "PHP",
+        "amount": 6.92
+      },
+      "percent_change": 0.00,
+      "volume": 3100,
+      "symbol": "PIZZA"
+    },
+    {
+      "name": "PREMIUM LEISURE",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.400
+      },
+      "percent_change": 0.00,
+      "volume": 3690000,
+      "symbol": "PLC"
+    },
+    {
+      "name": "Panasonic",
+      "price": {
+        "currency": "PHP",
+        "amount": 5.65
+      },
+      "percent_change": -0.88,
+      "volume": 4000,
+      "symbol": "PMPC"
+    },
+    {
+      "name": "Phil Natl Bank",
+      "price": {
+        "currency": "PHP",
+        "amount": 17.78
+      },
+      "percent_change": -0.67,
+      "volume": 38500,
+      "symbol": "PNB"
+    },
+    {
+      "name": "PHX PETROLEUM",
+      "price": {
+        "currency": "PHP",
+        "amount": 9.48
+      },
+      "percent_change": -0.21,
+      "volume": 49700,
+      "symbol": "PNX"
+    },
+    {
+      "name": "PNX PREF 3B",
+      "price": {
+        "currency": "PHP",
+        "amount": 100.00
+      },
+      "percent_change": 0.40,
+      "volume": 50,
+      "symbol": "PNX3B"
+    },
+    {
+      "name": "PNX PREF 4",
+      "price": {
+        "currency": "PHP",
+        "amount": 975.00
+      },
+      "percent_change": 0.52,
+      "volume": 50,
+      "symbol": "PNX4"
+    },
+    {
+      "name": "Pryce Corp.",
+      "price": {
+        "currency": "PHP",
+        "amount": 5.40
+      },
+      "percent_change": 0.00,
+      "volume": 400,
+      "symbol": "PPC"
+    },
+    {
+      "name": "PCOR PREF 3A",
+      "price": {
+        "currency": "PHP",
+        "amount": 1027.00
+      },
+      "percent_change": -0.58,
+      "volume": 625,
+      "symbol": "PRF3A"
+    },
+    {
+      "name": "PCOR PREF 3B",
+      "price": {
+        "currency": "PHP",
+        "amount": 1047.00
+      },
+      "percent_change": 0.10,
+      "volume": 5,
+      "symbol": "PRF3B"
+    },
+    {
+      "name": "Prime Media",
+      "price": {
+        "currency": "PHP",
+        "amount": 2.15
+      },
+      "percent_change": -0.92,
+      "volume": 1024000,
+      "symbol": "PRIM"
+    },
+    {
+      "name": "Primex Corp.",
+      "price": {
+        "currency": "PHP",
+        "amount": 2.02
+      },
+      "percent_change": -0.98,
+      "volume": 1761000,
+      "symbol": "PRMX"
+    },
+    {
+      "name": "PSE",
+      "price": {
+        "currency": "PHP",
+        "amount": 173.00
+      },
+      "percent_change": -1.14,
+      "volume": 250,
+      "symbol": "PSE"
+    },
+    {
+      "name": "PX MINING",
+      "price": {
+        "currency": "PHP",
+        "amount": 3.16
+      },
+      "percent_change": 0.64,
+      "volume": 953000,
+      "symbol": "PX"
+    },
+    {
+      "name": "PXP ENERGY",
+      "price": {
+        "currency": "PHP",
+        "amount": 5.25
+      },
+      "percent_change": -5.58,
+      "volume": 316600,
+      "symbol": "PXP"
+    },
+    {
+      "name": "RCBC",
+      "price": {
+        "currency": "PHP",
+        "amount": 19.50
+      },
+      "percent_change": 3.07,
+      "volume": 50900,
+      "symbol": "RCB"
+    },
+    {
+      "name": "CADP Group",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.59
+      },
+      "percent_change": -1.67,
+      "volume": 1242000,
+      "symbol": "RCI"
+    },
+    {
+      "name": "RL COMM RT",
+      "price": {
+        "currency": "PHP",
+        "amount": 6.44
+      },
+      "percent_change": -0.16,
+      "volume": 522400,
+      "symbol": "RCR"
+    },
+    {
+      "name": "RFM Corp",
+      "price": {
+        "currency": "PHP",
+        "amount": 3.90
+      },
+      "percent_change": 0.00,
+      "volume": 4000,
+      "symbol": "RFM"
+    },
+    {
+      "name": "Robinsons Land",
+      "price": {
+        "currency": "PHP",
+        "amount": 16.90
+      },
+      "percent_change": -0.59,
+      "volume": 2008800,
+      "symbol": "RLC"
+    },
+    {
+      "name": "PhilRealty",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.235
+      },
+      "percent_change": -0.84,
+      "volume": 350000,
+      "symbol": "RLT"
+    },
+    {
+      "name": "Roxas Hldg.",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.25
+      },
+      "percent_change": 1.63,
+      "volume": 13000,
+      "symbol": "ROX"
+    },
+    {
+      "name": "ROBINSONS RTL",
+      "price": {
+        "currency": "PHP",
+        "amount": 56.75
+      },
+      "percent_change": 3.75,
+      "volume": 903700,
+      "symbol": "RRHI"
+    },
+    {
+      "name": "Semirara Mining",
+      "price": {
+        "currency": "PHP",
+        "amount": 40.70
+      },
+      "percent_change": 3.69,
+      "volume": 11714300,
+      "symbol": "SCC"
+    },
+    {
+      "name": "Security Bank",
+      "price": {
+        "currency": "PHP",
+        "amount": 89.00
+      },
+      "percent_change": -0.56,
+      "volume": 398360,
+      "symbol": "SECB"
+    },
+    {
+      "name": "11-Jul",
+      "price": {
+        "currency": "PHP",
+        "amount": 61.05
+      },
+      "percent_change": -3.10,
+      "volume": 3410,
+      "symbol": "SEVN"
+    },
+    {
+      "name": "Solid Group",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.92
+      },
+      "percent_change": 0.00,
+      "volume": 9000,
+      "symbol": "SGI"
+    },
+    {
+      "name": "TRANSGRID",
+      "price": {
+        "currency": "PHP",
+        "amount": 12.14
+      },
+      "percent_change": -1.14,
+      "volume": 7704100,
+      "symbol": "SGP"
+    },
+    {
+      "name": "PILIPINAS SHELL",
+      "price": {
+        "currency": "PHP",
+        "amount": 17.70
+      },
+      "percent_change": 0.57,
+      "volume": 70500,
+      "symbol": "SHLPH"
+    },
+    {
+      "name": "SHNG Properties",
+      "price": {
+        "currency": "PHP",
+        "amount": 2.57
+      },
+      "percent_change": -0.39,
+      "volume": 5000,
+      "symbol": "SHNG"
+    },
+    {
+      "name": "Sun Life",
+      "price": {
+        "currency": "PHP",
+        "amount": 2320.00
+      },
+      "percent_change": 0.00,
+      "volume": 185,
+      "symbol": "SLF"
+    },
+    {
+      "name": "Sta.Lucia Land",
+      "price": {
+        "currency": "PHP",
+        "amount": 2.74
+      },
+      "percent_change": -10.16,
+      "volume": 47000,
+      "symbol": "SLI"
+    },
+    {
+      "name": "SM Investments ",
+      "price": {
+        "currency": "PHP",
+        "amount": 788.00
+      },
+      "percent_change": -1.01,
+      "volume": 298630,
+      "symbol": "SM"
+    },
+    {
+      "name": "San Miguel A",
+      "price": {
+        "currency": "PHP",
+        "amount": 104.00
+      },
+      "percent_change": 0.00,
+      "volume": 170060,
+      "symbol": "SMC"
+    },
+    {
+      "name": "SMC Pref 2F",
+      "price": {
+        "currency": "PHP",
+        "amount": 75.55
+      },
+      "percent_change": -0.66,
+      "volume": 45600,
+      "symbol": "SMC2F"
+    },
+    {
+      "name": "SMC Pref 2H",
+      "price": {
+        "currency": "PHP",
+        "amount": 74.90
+      },
+      "percent_change": -0.13,
+      "volume": 2500,
+      "symbol": "SMC2H"
+    },
+    {
+      "name": "SMC PREF 2J",
+      "price": {
+        "currency": "PHP",
+        "amount": 72.00
+      },
+      "percent_change": 1.34,
+      "volume": 20030,
+      "symbol": "SMC2J"
+    },
+    {
+      "name": "SMC PREF 2K",
+      "price": {
+        "currency": "PHP",
+        "amount": 74.00
+      },
+      "percent_change": 2.00,
+      "volume": 30,
+      "symbol": "SMC2K"
+    },
+    {
+      "name": "SM Prime Hldg.",
+      "price": {
+        "currency": "PHP",
+        "amount": 36.75
+      },
+      "percent_change": -2.91,
+      "volume": 8458900,
+      "symbol": "SMPH"
+    },
+    {
+      "name": "SPC POWER",
+      "price": {
+        "currency": "PHP",
+        "amount": 9.11
+      },
+      "percent_change": 0.11,
+      "volume": 97300,
+      "symbol": "SPC"
+    },
+    {
+      "name": "SOLAR PH",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.60
+      },
+      "percent_change": 1.27,
+      "volume": 9800000,
+      "symbol": "SPNEC"
+    },
+    {
+      "name": "SSI GROUP",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.37
+      },
+      "percent_change": 0.00,
+      "volume": 2558000,
+      "symbol": "SSI"
+    },
+    {
+      "name": "PHX SEMICNDCTR",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.46
+      },
+      "percent_change": -2.67,
+      "volume": 2935000,
+      "symbol": "SSP"
+    },
+    {
+      "name": "Starmalls",
+      "price": {
+        "currency": "PHP",
+        "amount": 3.38
+      },
+      "percent_change": -0.29,
+      "volume": 3000,
+      "symbol": "STR"
+    },
+    {
+      "name": "Suntrust Home",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.01
+      },
+      "percent_change": 0.00,
+      "volume": 55000,
+      "symbol": "SUN"
+    },
+    {
+      "name": "TKC METALS",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.66
+      },
+      "percent_change": -1.49,
+      "volume": 11000,
+      "symbol": "T"
+    },
+    {
+      "name": "Transpacific Br",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.275
+      },
+      "percent_change": 0.00,
+      "volume": 830000,
+      "symbol": "TBGI"
+    },
+    {
+      "name": "TECH PREF B2D",
+      "price": {
+        "currency": "PHP",
+        "amount": 54.00
+      },
+      "percent_change": -3.57,
+      "volume": 600,
+      "symbol": "TCB2D"
+    },
+    {
+      "name": "CHIPS",
+      "price": {
+        "currency": "PHP",
+        "amount": 2.78
+      },
+      "percent_change": -1.77,
+      "volume": 1759000,
+      "symbol": "TECH"
+    },
+    {
+      "name": "TECH WARRANT",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.53
+      },
+      "percent_change": 0.00,
+      "volume": 207000,
+      "symbol": "TECHW"
+    },
+    {
+      "name": "PLDT",
+      "price": {
+        "currency": "PHP",
+        "amount": 1669.00
+      },
+      "percent_change": 0.91,
+      "volume": 146185,
+      "symbol": "TEL"
+    },
+    {
+      "name": "HARBOR STAR",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.05
+      },
+      "percent_change": 1.94,
+      "volume": 553000,
+      "symbol": "TUGS"
+    },
+    {
+      "name": "Union Bank",
+      "price": {
+        "currency": "PHP",
+        "amount": 73.25
+      },
+      "percent_change": 0.27,
+      "volume": 41630,
+      "symbol": "UBP"
+    },
+    {
+      "name": "Univ Robina",
+      "price": {
+        "currency": "PHP",
+        "amount": 116.40
+      },
+      "percent_change": 0.87,
+      "volume": 952420,
+      "symbol": "URC"
+    },
+    {
+      "name": "Vitarich",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.60
+      },
+      "percent_change": 1.69,
+      "volume": 217000,
+      "symbol": "VITA"
+    },
+    {
+      "name": "Vista Land",
+      "price": {
+        "currency": "PHP",
+        "amount": 2.02
+      },
+      "percent_change": 1.00,
+      "volume": 245000,
+      "symbol": "VLL"
+    },
+    {
+      "name": "VISTAREIT RT",
+      "price": {
+        "currency": "PHP",
+        "amount": 1.72
+      },
+      "percent_change": 0.00,
+      "volume": 249000,
+      "symbol": "VREIT"
+    },
+    {
+      "name": "Vulcan Ind`l",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.77
+      },
+      "percent_change": 0.00,
+      "volume": 578000,
+      "symbol": "VUL"
+    },
+    {
+      "name": "PhilWeb",
+      "price": {
+        "currency": "PHP",
+        "amount": 3.50
+      },
+      "percent_change": 6.06,
+      "volume": 2739000,
+      "symbol": "WEB"
+    },
+    {
+      "name": "WILCON DEPOT",
+      "price": {
+        "currency": "PHP",
+        "amount": 23.35
+      },
+      "percent_change": 3.78,
+      "volume": 876800,
+      "symbol": "WLCON"
+    },
+    {
+      "name": "Waterfront",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.425
+      },
+      "percent_change": -1.16,
+      "volume": 70000,
+      "symbol": "WPI"
+    },
+    {
+      "name": "XURPAS",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.335
+      },
+      "percent_change": 4.69,
+      "volume": 920000,
+      "symbol": "X"
+    },
+    {
+      "name": "Zeus Holdings",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.159
+      },
+      "percent_change": 3.92,
+      "volume": 10000,
+      "symbol": "ZHI"
+    },
+    {
+      "name": "PSEi",
+      "price": {
+        "currency": "PHP",
+        "amount": -11.4400
+      },
+      "percent_change": -0.18,
+      "volume": 627,
+      "symbol": "PSEi"
+    },
+    {
+      "name": "All Shares",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.170
+      },
+      "percent_change": 0.00,
+      "volume": 3381,
+      "symbol": "ALL"
+    },
+    {
+      "name": "Financials",
+      "price": {
+        "currency": "PHP",
+        "amount": 0.180
+      },
+      "percent_change": 0.01,
+      "volume": 1481,
+      "symbol": "FIN"
+    },
+    {
+      "name": "Industrial",
+      "price": {
+        "currency": "PHP",
+        "amount": 17.56
+      },
+      "percent_change": 0.19,
+      "volume": 9428,
+      "symbol": "IND"
+    },
+    {
+      "name": "Holding Firms",
+      "price": {
+        "currency": "PHP",
+        "amount": -4.6100
+      },
+      "percent_change": -0.08,
+      "volume": 5888,
+      "symbol": "HDG"
+    },
+    {
+      "name": "Property",
+      "price": {
+        "currency": "PHP",
+        "amount": -17.9100
+      },
+      "percent_change": -0.63,
+      "volume": 2841,
+      "symbol": "PRO"
+    },
+    {
+      "name": "Services",
+      "price": {
+        "currency": "PHP",
+        "amount": 3.43
+      },
+      "percent_change": 0.21,
+      "volume": 1643,
+      "symbol": "SVC"
+    },
+    {
+      "name": "Mining and Oil",
+      "price": {
+        "currency": "PHP",
+        "amount": 268.70
+      },
+      "percent_change": 2.46,
+      "volume": 11201,
+      "symbol": "M-O"
+    }
+  ],
+  "as_of": "2022-07-20T14:50:00+08:00"
+}

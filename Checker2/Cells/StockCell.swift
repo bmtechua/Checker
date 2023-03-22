@@ -27,15 +27,17 @@ class StockCell: UITableViewCell {
     
     
     func setupStockCell(stock: Stock) {
-        nameLabel.text = stock.name
-        amountLabel.text = String(stock.price.amount)
-        percentLabel.text = String(stock.percent_change)
-        
-        if stock.percent_change <= 0 {
-            percentLabel.textColor = .red
-        } else {
-            percentLabel.textColor = .green
-
+        DispatchQueue.main.async {
+            self.nameLabel.text = stock.name
+            self.amountLabel.text = String(stock.price.amount)
+            self.percentLabel.text = String(stock.percent_change)
+            
+            if stock.percent_change <= 0 {
+                self.percentLabel.textColor = .red
+            } else {
+                self.percentLabel.textColor = .green
+                
+            }
         }
     }
     
