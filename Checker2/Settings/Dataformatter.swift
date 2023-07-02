@@ -9,10 +9,11 @@ import UIKit
 //set date
 func dateSet() -> String {
     let now = Date()
+    let yesterday = Calendar.current.date(byAdding: .day, value: -1, to: now)! // вчорашня дата та час
     let formatter = DateFormatter()
     formatter.dateFormat = "yyyy-MM-dd"
-    let nowFormatterString = formatter.string(from: now)
-    return nowFormatterString
+    let dateFormatterString = formatter.string(from: yesterday)
+    return dateFormatterString
 }
 
 

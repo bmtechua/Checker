@@ -9,8 +9,9 @@ import Foundation
 
 let urlString = "http://phisix-api3.appspot.com/stocks.json"
 let date = dateSet()
-let urlStringNews = "https://newsapi.org/v2/everything?q=Apple&from=&sortBy=popularity&apiKey=ffc40f9cda57418e9b3600f003ed11b5"
-//let urlStringNews = "https://newsapi.org/v2/everything?q=Apple&from=" + date + "&sortBy=popularity&apiKey=ffc40f9cda57418e9b3600f003ed11b5" "https://newsapi.org/v2/everything?q=Apple&from=2022-11-01&sortBy=popularity&apiKey=ffc40f9cda57418e9b3600f003ed11b5"
+//let urlStringNews = "https://newsapi.org/v2/everything?q=Apple&from=&sortBy=popularity&apiKey=ffc40f9cda57418e9b3600f003ed11b5"
+let urlStringNews = "https://newsapi.org/v2/everything?q=Apple&from=" + date + "&sortBy=popularity&apiKey=ffc40f9cda57418e9b3600f003ed11b5"
+//https://newsapi.org/v2/everything?q=Apple&from=2022-11-01&sortBy=popularity&apiKey=ffc40f9cda57418e9b3600f003ed11b5"
 
 class NetworkService {
 

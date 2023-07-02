@@ -21,8 +21,6 @@ class DetailNewsVC: UIViewController {
     @IBOutlet weak var contentLabel: UILabel!
     @IBOutlet weak var newsLargeImage: UIImageView!
     
-
-    
     var titleNews = ""
     var descriptionNews = ""
     var contentNews = ""
@@ -30,8 +28,9 @@ class DetailNewsVC: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         setNews()
-        newsFavorites = getArrayFromUserDefaults(forKey: "arrNews") ?? [Articles]()
+        newsFavorites = saveAndLoad.shared.getArrayFromUserDefaults(forKey: "arrNews") ?? [Articles]()
     }
     
     func setNews() {
@@ -44,37 +43,11 @@ class DetailNewsVC: UIViewController {
     }
     
     @IBAction func addBookmarks(_ sender: Any) {
-        print("newsOne content -", newsOne.title)
-        print(newsFavorites.count)
         newsFavorites.append(newsOne)
-        
-        saveArrayToUserDefaults(newsFavorites, forKey: "arrNews")
+        saveAndLoad.shared.saveArrayToUserDefaults(newsFavorites, forKey: "arrNews")
     }
-    
     
     @IBAction func removeBookmarks(_ sender: Any) {
-    }
-    
-    func getArrayFromUserDefaults<T: Codable>(forKey key: String) -> [T]? {
-        guard let jsonData = UserDefaults.standard.data(forKey: key) else { return nil }
-        do {
-            let jsonDecoder = JSONDecoder()
-            let array = try jsonDecoder.decode([T].self, from: jsonData)
-            return array
-        } catch {
-            print("Error retrieving array from UserDefaults: \(error.localizedDescription)")
-            return nil
-        }
-    }
-    
-    func saveArrayToUserDefaults<T: Codable>(_ array: [T], forKey key: String) {
-        do {
-            let jsonEncoder = JSONEncoder()
-            let jsonData = try jsonEncoder.encode(array)
-            UserDefaults.standard.set(jsonData, forKey: key)
-        } catch {
-            print("Error saving array to UserDefaults: \(error.localizedDescription)")
-        }
     }
     
 }

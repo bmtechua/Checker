@@ -35,7 +35,7 @@ class DetailStockVC: UIViewController {
         super.viewDidLoad()
         
         setData()
-        arrayFavoriteStocks = getArrayFromUserDefaults(forKey: "arr") ?? [Stock]()
+        arrayFavoriteStocks = saveAndLoad.shared.getArrayFromUserDefaults(forKey: "arr") ?? [Stock]()
     }
     
     func setData() {
@@ -50,32 +50,11 @@ class DetailStockVC: UIViewController {
         }
     }
     
-    
-    func saveArrayToUserDefaults<T: Codable>(_ array: [T], forKey key: String) {
-        do {
-            let jsonEncoder = JSONEncoder()
-            let jsonData = try jsonEncoder.encode(array)
-            UserDefaults.standard.set(jsonData, forKey: key)
-        } catch {
-            print("Error saving array to UserDefaults: \(error.localizedDescription)")
-        }
-    }
-    
     @IBAction func addToFavorite(_ sender: Any) {
-        print("stockOne -",stockOne)
         arrayFavoriteStocks.append(stockOne)
-        defaults.set(name, forKey: "nameStockFavorite")
-        defaults.set(amount, forKey: "amountStockFavorite")
-        defaults.set(percent, forKey: "percentStockFavorite")
-        
-        saveArrayToUserDefaults(arrayFavoriteStocks, forKey: "arr")
-        
-        print(stockOne.name)
-        print(arrayFavoriteStocks.count)
-        for i in arrayFavoriteStocks {
-            print("\(i) - \(i.name)")
-        }
-        
-       
+//        defaults.set(name, forKey: "nameStockFavorite")
+//        defaults.set(amount, forKey: "amountStockFavorite")
+//        defaults.set(percent, forKey: "percentStockFavorite")
+        saveAndLoad.shared.saveArrayToUserDefaults(arrayFavoriteStocks, forKey: "arr")
     }
 }

@@ -19,8 +19,6 @@ struct GroupStock {
     var stock: [StockNew]
 }
 
-
-
 let s1 = StockNew(name: "Acer", amount: "234", percent: "5")
 let s2 = StockNew(name: "Acpache", amount: "234", percent: "5")
 let s3 = StockNew(name: "Ancor", amount: "234", percent: "5")
@@ -37,7 +35,6 @@ let gFavorites = [s1, s3, s5]
 
 let g1 = GroupStock(name: "Favorites", stock: gAll)
 let g2 = GroupStock(name: "All", stock: gFavorites)
-
 
 class Groups {
     var groups = [GroupStock]()

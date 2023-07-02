@@ -11,10 +11,7 @@ class StockNew2VC: UIViewController {
 
     @IBOutlet weak var collectionViewGroup: UICollectionView!
     @IBOutlet weak var tableViewStock: UITableView!
-    
-    var myColorGray = UIColor(hex: 0x1E1F26)
-    var myColorBlack = UIColor(hex: 0x16171C)
-    
+
     var stock = Groups()
     var selectedGroup = 0
     
@@ -32,6 +29,8 @@ class StockNew2VC: UIViewController {
         
         navigationItem.title = "Stocks"
         setupView()
+        collectionViewGroup.reloadData()
+        tableViewStock.reloadData()
         
         networkService.fetchPostData { (stocks) in
             self.stocksAll = stocks.stock
@@ -39,7 +38,7 @@ class StockNew2VC: UIViewController {
             self.tableViewStock.reloadData()
         }
         
-        collectionViewGroup.reloadData()
+
         stocksFavorites = getArrayFromUserDefaults(forKey: "arr") ?? stocks
     }
     
@@ -80,9 +79,9 @@ extension StockNew2VC: UITableViewDelegate, UITableViewDataSource, UICollectionV
         cell.setupStockCell(stock: stock)
         
         if indexPath.row % 2 != 0 {
-            cell.backgroundColor = myColorGray
+            cell.backgroundColor = Colors.myColorGray
         } else {
-            cell.backgroundColor = myColorBlack
+            cell.backgroundColor = Colors.myColorBlack
         }
         
         return cell

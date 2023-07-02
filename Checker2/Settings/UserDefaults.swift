@@ -12,8 +12,6 @@ var defaults = UserDefaults.standard
 struct KeyDefaults {
     static let stock = "stock"
     static let array = "array"
-
-
 }
 
 class Base{
@@ -49,22 +47,5 @@ class Base{
             }
         }
     }
-    
-//    func saveEx(name: String, work: Int, rest: Int) {
-//        let exercise = Exercise(name: name, work: work, rest: rest)
-//        exercisesArray.insert(exercise, at: 0)
-//    }
 }
 
-
-func getArrayFromUserDefaults<T: Codable>(forKey key: String) -> [T]? {
-    guard let jsonData = UserDefaults.standard.data(forKey: key) else { return nil }
-    do {
-        let jsonDecoder = JSONDecoder()
-        let array = try jsonDecoder.decode([T].self, from: jsonData)
-        return array
-    } catch {
-        print("Error retrieving array from UserDefaults: \(error.localizedDescription)")
-        return nil
-    }
-}

@@ -19,10 +19,12 @@ class NewsVC: UIViewController{
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         navigationItem.title = "News"
+        view.backgroundColor = myColorBlack
         
         setupCollView()
-        view.backgroundColor = myColorBlack
+        collectionView.reloadData()
         
         networkService.fetchPostDataNews { (news) in
             self.news = news.articles
@@ -36,16 +38,11 @@ class NewsVC: UIViewController{
         collectionView.dataSource = self
         collectionView.register(UINib(nibName: "DetailNewsCVC", bundle: nil), forCellWithReuseIdentifier: "DetailNewsCVC")
     }
-    
-    func cellColor() {
-
-    }
 }
 
 extension NewsVC: UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout {
     
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-        print("count news",news.count)
         return news.count
     }
     
@@ -71,15 +68,12 @@ extension NewsVC: UICollectionViewDelegate, UICollectionViewDataSource, UICollec
         let news = news[indexPath.row]
         let completeLink = news.urlToImage ?? "noImage"
         
-        
         vc?.titleNews = news.title
         vc?.descriptionNews = news.description!
         vc?.contentNews = news.content!
         vc?.image = completeLink
         vc?.newsOne = news
 
-        
-        print(news.title)
            navigationController?.pushViewController(vc!, animated: true)
     }
     
